@@ -6,7 +6,7 @@ An AI workforce management platform where you create, manage, and orchestrate au
 
 Agents can run centrally on the Hub or be distributed across any machine in your infrastructure via lightweight Bun-based Nodes.
 
-**Repo:** `github.com/yourusername/orquestra`
+**Repo:** `https://github.com/rafaelmelo007/Tamarindo.Orquestra`
 
 ---
 
