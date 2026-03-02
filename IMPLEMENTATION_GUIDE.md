@@ -6,7 +6,7 @@ An AI workforce management platform where you create, manage, and orchestrate au
 
 **Core concept:** Your AI company runs itself. You define the team, assign the work, and review the results.
 
-**Repo:** `github.com/yourusername/orquestra`
+**Repo:** `https://github.com/rafaelmelo007/Tamarindo.Orquestra`
 
 ---
 
